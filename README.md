@@ -105,7 +105,7 @@ Note: storage config for IPFS backend storage as you create a new repository in 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="20%"><a href="https://x.com/MesoReefDAO" target="_blank"><img src="../logos/MesoReefDAO.png" width="100px;" alt="MesoReefDAO"/><br /><sub><b>MesoReefDAO</b></sub></a><br /></td>
+      <td align="center" valign="top" width="20%"><a href="https://x.com/MesoReefDAO" target="_blank"><img src="https://github.com/mrrifat/jiaozifs/blob/readme/logos/MesoReefDAO.png" width="100px;" alt="MesoReefDAO"/><br /><sub><b>MesoReefDAO</b></sub></a><br /></td>
       <td align="center" valign="top" width="20%"><a href="https://files.lighthouse.storage/" target="_blank"><img src="https://github.com/mrrifat/jiaozifs/blob/readme/logos/LIGHTHOUSE.jpg" width="100px;" alt="LIGHTHOUSE"/><br /><sub><b>LIGHTHOUSE</b></sub></a></td>
       <td align="center" valign="top" width="20%"><a href="https://www.lunco.space/" target="_blank"><img src="https://github.com/mrrifat/jiaozifs/blob/readme/logos/LunCo.jpg" width="100px;" alt="LunCo"/><br /><sub><b>LunCo</b></sub></a></td>
     </tr>
