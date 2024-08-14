@@ -100,18 +100,6 @@ Note: storage config for IPFS backend storage as you create a new repository in 
 
 [Face detection and recognition inference pipeline](https://colab.research.google.com/drive/1wsv-KMxTdsCLZ64eLq4W1MTfspid-vv6?usp=sharing)
 
-## Partners
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="20%"><a href="https://x.com/MesoReefDAO" target="_blank"><img src="../MesoReefDAO.png" width="100px;" alt="MesoReefDAO"/><br /><sub><b>MesoReefDAO</b></sub></a><br /></td>
-      <td align="center" valign="top" width="20%"><a href="https://files.lighthouse.storage/" target="_blank"><img src="../logos/LIGHTHOUSE.png" width="100px;" alt="LIGHTHOUSE"/><br /><sub><b>LIGHTHOUSE</b></sub></a></td>
-      <td align="center" valign="top" width="20%"><a href="https://www.lunco.space/" target="_blank"><img src="../logos/LunCo.jpg" width="100px;" alt="LunCo"/><br /><sub><b>LunCo</b></sub></a></td>
-    </tr>
-    
-  </tbody>
-</table>
-
 ----
 ### Contributors
 
